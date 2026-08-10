@@ -1,3 +1,4 @@
+import utils.session
 import sqlite3
 import run_queries as rq
 

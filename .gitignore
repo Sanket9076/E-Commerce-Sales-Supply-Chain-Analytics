@@ -38,8 +38,6 @@ venv.bak/
 *.sqlite3
 
 # Environment Variables
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -53,9 +51,10 @@ $RECYCLE.BIN/
 
 # IDEs and editors
 .idea/
-.vscode/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+config.bat
+node_modules
